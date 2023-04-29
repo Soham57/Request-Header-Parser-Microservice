@@ -6,7 +6,7 @@ Features
 The application listens for HTTP requests on a specified port, parses the request headers and returns a JSON response with the relevant information.
 The JSON response includes the client's IP address, preferred language and software used to make the request.
 Installation
-Clone the repository: git clone https://github.com/soham57/request-header-parser.git
+Clone the repository: git clone https://github.com/Soham57/Request-Header-Parser-Microservice.git
 Install the dependencies: npm install
 Usage
 Start the server: npm start
